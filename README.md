@@ -1,1 +1,1 @@
-react-calculator
+iOS-calculator
