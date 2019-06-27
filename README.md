@@ -1,5 +1,5 @@
 # Project
-Simple iSO calculator built on react
+Simple iOS calculator built on react
 This Project uses webpack,bable.
 Checkout Develop Branch
 
